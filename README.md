@@ -20,3 +20,10 @@
 | komórka | komórka | komórka | komórka | komórka |
 | komórka | komórka | komórka | komórka | komórka |
 | komórka | komórka | komórka | komórka | komórka |
+
+
+
+*Punkty kolejne*
+* Pierwszy
+* Drugi
+* Trzeci 
