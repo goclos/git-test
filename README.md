@@ -23,6 +23,7 @@
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -34,3 +35,9 @@
 
 
 ## Amazonka
+=======
+*Punkty kolejne*
+* Pierwszy
+* Drugi
+* Trzeci 
+>>>>>>> 5942479cae70c6fbeaee03ab65ef19856f4d52c2
