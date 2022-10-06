@@ -20,3 +20,17 @@
 | komórka | komórka | komórka | komórka | komórka |
 | komórka | komórka | komórka | komórka | komórka |
 | komórka | komórka | komórka | komórka | komórka |
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Amazonka
